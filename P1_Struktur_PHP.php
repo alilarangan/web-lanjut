@@ -1,8 +1,8 @@
 <html>
-<header>
+ <header>
 	<title>Pertemuan Pertama</title>
-</header>
-<body>
+ </header>
+ <body>
 	<?php
 	    echo "<br>";
 	    echo"Teks ini muncul dari dalam kode php";
@@ -10,7 +10,7 @@
 	    /*ini contoh komentar beberapa baris*/
 	    echo "<hr>";
 	    //constanta
-	  ?>
-	  <br>
+	?>
+   <br>
   </body>
 </html>
